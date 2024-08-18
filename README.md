@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h1 align="center">Namaste! I’m Sahil Kumar.</h1>
+<h3 align="center">A Full Stack Developer by day and a Code Ninja by night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-0905&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-0905" /> </p>
 
